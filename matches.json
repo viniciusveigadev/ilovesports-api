@@ -1,0 +1,19 @@
+[
+  {
+    "description": "Eliminatórias da copa do mundo 2022",
+    "local": {
+      "name": "Maracanã",
+      "image": "TODO"
+    },
+    "hometeam": {
+      "name": "Brasil",
+      "stars": 5,
+      "image": "TODO"
+    },
+    "awayteam": {
+      "name": "Argentina",
+      "stars": 5,
+      "image": "TODO"
+    }
+  }
+]
